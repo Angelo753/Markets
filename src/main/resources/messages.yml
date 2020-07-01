@@ -1,0 +1,18 @@
+consoleError: '&8(&6AngelMarkets&8) &7Tento příkaz nemůžete použít z konzole.'
+wrongUsage: '&8(&6AngelMarkets&8) &7Špatne použití příkazu.'
+marketBuy: '&8(&6AngelMarkets&8) &7Hráč &6&o%player% &7si zakoupil &6&o%market%&7.'
+notForSale: '&8(&6AngelMarkets&8) &7Tento market není na prodej.'
+marketForSale: '&8(&6AngelMarkets&8) &7Hráč &6&o%player% &7prodává &6&o%market%&7.'
+marketDoesNotExist: '&8(&6AngelMarkets&8) &7Tento market neexistuje.'
+wrongOwner: '&8(&6AngelMarkets&8) &7Nejsi majitel tohoto marketu.'
+marketNoPermission: '&8(&6AngelMarkets&8) &7V marketu &6&o%market% &7nemáš na nic povolení.'
+help:
+  - '&6&o/%cmd% help &8» &7Zobrazí tuto zprávu.'
+  - '&6&o/%cmd% buy &8(&6Market&8) &8» &7Koupí market.'
+  - '&6&o/%cmd% sell &8(&6Market&8) &8(&6Částka&8) &8» &7Dá na aukci market.'
+  - '&6&o/%cmd% list &8» &7Zobrazí počet marketů a jejich cenu.'
+  - '&6&o/%cmd% set &8» &7Nastaví lokaci blocku, na který se díváte.'
+marketList:
+  title: '         &6&oMarkety'
+  format: '&7Market &6&o%market%&8, &7cena &6&o%price%&8, &7k pronájmu &6&o%forsale%&7.'
+  empty: '&6Žádný market není dostupný.'

@@ -1,0 +1,11 @@
+name: AngelMarkets
+version: @version@
+main: cz.angelo.angelmarkets.Main
+api-version: 1.15
+authors: [Angelo753]
+depend: [Vault]
+commands:
+  angelmarkets:
+    aliases:
+      - market
+      - markets
